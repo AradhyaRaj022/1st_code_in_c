@@ -1,17 +1,27 @@
-# Celsius to Fahrenheit Converter
+C Learning Journey
 
-This is a simple C program that converts temperatures from Celsius to Fahrenheit. 
+This repository contains the C programs I wrote while learning the C programming language before starting engineering college.
 
-## How to Use It
-1. Run the program.
-2. Type in a whole number for the Celsius temperature (like `25` or `100`).
-3. Press Enter to see the calculated Fahrenheit result.
+Repository Structure
+How to Run a Program
 
-## Example
-- **Input**: `0`
-- **Output**: `The Fahrenheit value for 0 celsius is 32.000000`
+Open a terminal in the folder containing the .c file and run:
 
-## How to Run It in a Terminal
-Type these two commands into your compiler terminal:
-1. `gcc problem3.c -o converter`
-2. `./converter`
+Example:
+
+Programs Added So Far
+
+Celsius to Fahrenheit Converter
+Converts a temperature from Celsius to Fahrenheit using user input and arithmetic operations.
+
+Age Checker (if-else)
+Uses an `if-else` statement to check whether the entered age is greater than 18.
+
+
+
+
+About
+
+This repository is a record of my learning progress. The goal is to improve step by step and build a strong foundation in programming.
+
+— Aradhya Raj
