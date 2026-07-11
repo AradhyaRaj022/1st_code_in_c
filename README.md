@@ -1,27 +1,39 @@
-C Learning Journey
+# C Learning Journey
 
-This repository contains the C programs I wrote while learning the C programming language before starting engineering college.
+Welcome to my C Learning repository!
 
-Repository Structure
-How to Run a Program
+This repository contains the C programs I write while learning the C programming language before starting my engineering journey. The programs are organized chapter-wise and cover the concepts I learn along the way.
 
-Open a terminal in the folder containing the .c file and run:
+## How to Run a Program
 
-Example:
+Compile the program using GCC:
 
-Programs Added So Far
+```bash
+gcc filename.c -o program
+```
 
-Celsius to Fahrenheit Converter
-Converts a temperature from Celsius to Fahrenheit using user input and arithmetic operations.
+Run the executable:
 
-Age Checker (if-else)
-Uses an `if-else` statement to check whether the entered age is greater than 18.
+```bash
+./program
+```
 
+(On Windows PowerShell, run `.\program`.)
 
+## Programs Added So Far
 
+### 🌡️ Celsius to Fahrenheit Converter
 
-About
+Converts a temperature entered by the user from Celsius to Fahrenheit using arithmetic operations and user input.
 
-This repository is a record of my learning progress. The goal is to improve step by step and build a strong foundation in programming.
+### 🎂 Age Checker
 
-— Aradhya Raj
+Uses an `if-else` statement to determine whether the entered age is greater than 18.
+
+## About
+
+This repository documents my journey of learning C programming from scratch. As I continue learning, I'll keep adding new programs and concepts here.
+
+Happy Coding! 🚀
+
+**— Aradhya Raj**
