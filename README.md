@@ -30,6 +30,10 @@ Converts a temperature entered by the user from Celsius to Fahrenheit using arit
 
 Uses an `if-else` statement to determine whether the entered age is greater than 18.
 
+### 🚗 Driving Eligibility Checker
+
+Uses `if`, `else-if`, and logical `(&&)` operators to determine whether a person is eligible to drive based on their age.
+
 ## About
 
 This repository documents my journey of learning C programming from scratch. As I continue learning, I'll keep adding new programs and concepts here.
